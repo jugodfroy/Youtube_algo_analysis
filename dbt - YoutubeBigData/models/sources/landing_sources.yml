@@ -1,0 +1,49 @@
+version: 2
+
+sources:
+  - name: landing_sources
+    database: postgres  
+    schema: godfroy_dutilleul  
+    description: This is a replica of the Postgres database used by our app
+    tables:
+      - name: landing_video_stats
+        description: >
+          Data on the 25 last published videos for each channel of the TOP 100
+        columns:
+          - name: channel_id
+            description: unique id of the youtube channel which published the video
+          - name: title
+            description: video title
+          - name: description
+            description: description of the video made by the publisher
+          - name: publishedAt
+            description: datetime the video has been published
+          - name: viewCount
+            description: number of views of the video
+          - name: likeCount
+            description: number of likes of the video
+          - name: commentCount
+            description: number of comments of the video
+          - name: video_id
+            description: unique id of the video
+
+      - name: landing_channels_ranking
+        description: >
+          Data on the TOP 100 French YouTube channels ranked by the subscribers (DESC)
+        columns:
+          - name: rank
+            description: youtube channel ranking in the TOP 100
+          - name: channel_name
+            description: name of the youtube channel
+          - name: channel_link
+            description: link of the youtube channel
+          - name: channel_id
+            description: unique id of the youtube channel
+          - name: uploads
+            description: number of uploads of the youtube channel
+          - name: subs
+            description: number of subscribers of the youtube channel
+          - name: views
+            description: number of total views of the youtube channel
+          - name: category
+            description: category of the youtube channel

@@ -1,0 +1,700 @@
+[2023-05-25T15:37:22.288+0200] {processor.py:156} INFO - Started process (PID=9119) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:22.289+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:37:22.289+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:22.289+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:22.434+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:22.458+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:22.458+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:37:22.496+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:22.496+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:37:22.526+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.242 seconds
+[2023-05-25T15:37:52.741+0200] {processor.py:156} INFO - Started process (PID=9153) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:52.744+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:37:52.745+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:52.745+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:52.901+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:37:52.931+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:52.931+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:37:53.128+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:53.128+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:37:53.173+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.442 seconds
+[2023-05-25T15:38:23.633+0200] {processor.py:156} INFO - Started process (PID=9155) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:23.637+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:38:23.638+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:23.638+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:23.772+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:23.815+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:23.815+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:38:23.962+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:23.962+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:38:23.994+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.366 seconds
+[2023-05-25T15:38:54.512+0200] {processor.py:156} INFO - Started process (PID=9157) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:54.514+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:38:54.515+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:54.515+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:54.618+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:38:54.653+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:54.652+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:38:54.793+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:54.793+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:38:54.822+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.313 seconds
+[2023-05-25T15:39:25.344+0200] {processor.py:156} INFO - Started process (PID=9181) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:39:25.353+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:39:25.354+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:25.354+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:39:25.601+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:39:25.966+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:25.965+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:39:26.039+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:26.028+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:39:26.107+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.767 seconds
+[2023-05-25T15:53:03.711+0200] {processor.py:156} INFO - Started process (PID=9339) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:03.712+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:53:03.715+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:03.714+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:03.925+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:04.211+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:04.210+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:53:04.273+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:04.273+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:53:04.314+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.606 seconds
+[2023-05-25T15:53:34.848+0200] {processor.py:156} INFO - Started process (PID=9375) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:34.850+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:53:34.851+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:34.851+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:34.948+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:53:35.096+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:35.096+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:53:35.120+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:35.120+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:53:35.147+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.306 seconds
+[2023-05-25T15:54:05.613+0200] {processor.py:156} INFO - Started process (PID=9377) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:05.617+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:54:05.618+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:05.618+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:05.868+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:05.897+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:05.897+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:54:05.927+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:05.927+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:54:05.978+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.367 seconds
+[2023-05-25T15:54:36.456+0200] {processor.py:156} INFO - Started process (PID=9478) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:36.458+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:54:36.460+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:36.459+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:36.677+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:54:36.700+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:36.700+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:54:36.731+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:36.731+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:54:36.760+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.309 seconds
+[2023-05-25T15:55:08.004+0200] {processor.py:156} INFO - Started process (PID=9551) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:08.045+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:55:08.052+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:08.051+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:11.643+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:11.953+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:11.953+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:55:12.052+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:12.051+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:55:12.184+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 4.279 seconds
+[2023-05-25T15:55:42.553+0200] {processor.py:156} INFO - Started process (PID=9553) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:42.562+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:55:42.566+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:42.564+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:45.786+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:55:46.083+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:46.083+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:55:46.196+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:46.195+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:55:46.258+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 3.726 seconds
+[2023-05-25T15:56:16.714+0200] {processor.py:156} INFO - Started process (PID=9577) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:16.818+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:56:16.820+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:16.819+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:17.863+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:18.047+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:18.046+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:56:18.111+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:18.111+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:56:18.152+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 1.558 seconds
+[2023-05-25T15:56:48.770+0200] {processor.py:156} INFO - Started process (PID=9604) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:48.773+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:56:48.775+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:48.774+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:49.776+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:56:49.802+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:49.802+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:56:49.820+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:49.819+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:56:50.370+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 1.619 seconds
+[2023-05-25T15:57:20.825+0200] {processor.py:156} INFO - Started process (PID=9607) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:20.831+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:57:20.832+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:20.831+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:21.067+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:21.096+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:21.095+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:57:21.137+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:21.136+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:57:21.203+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.384 seconds
+[2023-05-25T15:57:51.395+0200] {processor.py:156} INFO - Started process (PID=9609) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:51.396+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:57:51.397+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:51.396+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:51.610+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:57:51.631+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:51.631+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:57:51.659+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:51.659+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:57:51.685+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.295 seconds
+[2023-05-25T15:58:22.190+0200] {processor.py:156} INFO - Started process (PID=9622) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:22.546+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:58:22.547+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:22.547+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:25.022+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:25.389+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:25.389+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:58:25.486+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:25.486+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:58:25.615+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 3.628 seconds
+[2023-05-25T15:58:55.867+0200] {processor.py:156} INFO - Started process (PID=9627) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:55.874+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:58:55.874+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:55.874+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:56.175+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:58:56.204+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:56.204+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:58:56.249+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:56.249+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:58:56.286+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.427 seconds
+[2023-05-25T15:59:26.470+0200] {processor.py:156} INFO - Started process (PID=9629) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:26.472+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:59:26.472+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:26.472+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:26.761+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:26.790+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:26.790+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:59:26.828+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:26.828+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:59:26.857+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.395 seconds
+[2023-05-25T15:59:56.916+0200] {processor.py:156} INFO - Started process (PID=9631) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:56.918+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T15:59:56.919+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:56.919+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:57.168+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T15:59:57.201+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:57.201+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:59:57.246+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:57.246+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:59:57.279+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.371 seconds
+[2023-05-25T16:00:27.695+0200] {processor.py:156} INFO - Started process (PID=9633) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:00:27.699+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:00:27.701+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:27.701+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:00:28.863+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:00:28.974+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:28.973+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:00:28.998+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:28.998+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:00:29.423+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 1.788 seconds
+[2023-05-25T16:00:59.819+0200] {processor.py:156} INFO - Started process (PID=9635) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:00:59.821+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:00:59.823+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:59.822+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:01:00.362+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:01:00.408+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:00.408+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:01:00.439+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:00.439+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:01:00.469+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.661 seconds
+[2023-05-25T16:01:30.611+0200] {processor.py:156} INFO - Started process (PID=9637) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:01:30.645+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:01:30.646+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:30.646+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:01:30.924+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:01:30.965+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:30.964+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:01:30.992+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:30.992+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:01:31.233+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.626 seconds
+[2023-05-25T16:02:01.433+0200] {processor.py:156} INFO - Started process (PID=9639) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:01.435+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:02:01.436+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:01.436+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:01.699+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:01.740+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:01.739+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:02:01.769+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:01.768+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:02:01.809+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.383 seconds
+[2023-05-25T16:02:31.952+0200] {processor.py:156} INFO - Started process (PID=9641) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:31.954+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:02:31.955+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:31.954+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:32.190+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:02:32.211+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:32.211+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:02:32.228+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:32.228+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:02:32.253+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.305 seconds
+[2023-05-25T16:03:02.464+0200] {processor.py:156} INFO - Started process (PID=9643) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:02.464+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:03:02.465+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:02.465+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:02.707+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:02.736+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:02.736+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:03:02.760+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:02.760+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:03:02.791+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.333 seconds
+[2023-05-25T16:03:32.954+0200] {processor.py:156} INFO - Started process (PID=9645) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:32.968+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:03:32.969+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:32.969+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:33.086+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:03:33.115+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:33.114+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:03:33.145+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:33.145+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:03:33.189+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.241 seconds
+[2023-05-25T16:04:03.348+0200] {processor.py:156} INFO - Started process (PID=9647) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:03.359+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:04:03.359+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:03.359+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:03.490+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:03.537+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:03.537+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:04:03.569+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:03.568+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:04:03.596+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.251 seconds
+[2023-05-25T16:04:33.780+0200] {processor.py:156} INFO - Started process (PID=9649) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:33.783+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:04:33.784+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:33.784+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:33.883+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:04:33.921+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:33.921+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:04:33.950+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:33.950+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:04:33.987+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.219 seconds
+[2023-05-25T16:05:04.176+0200] {processor.py:156} INFO - Started process (PID=9651) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:04.177+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:05:04.178+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:04.178+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:04.282+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:04.319+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:04.319+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:05:04.347+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:04.347+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:05:04.388+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.215 seconds
+[2023-05-25T16:05:34.580+0200] {processor.py:156} INFO - Started process (PID=9653) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:34.581+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:05:34.582+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:34.582+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:34.681+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:05:34.708+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:34.708+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:05:34.731+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:34.731+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:05:34.761+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.183 seconds
+[2023-05-25T16:06:04.878+0200] {processor.py:156} INFO - Started process (PID=9655) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:04.879+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:06:04.880+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:04.880+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:04.997+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:05.027+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:05.027+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:06:05.057+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:05.056+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:06:05.085+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.212 seconds
+[2023-05-25T16:06:35.291+0200] {processor.py:156} INFO - Started process (PID=9657) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:35.293+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:06:35.294+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:35.293+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:35.472+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:06:35.517+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:35.515+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:06:35.553+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:35.553+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:06:35.583+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.301 seconds
+[2023-05-25T16:07:05.925+0200] {processor.py:156} INFO - Started process (PID=9659) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:05.927+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:07:05.934+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:05.934+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:06.079+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:06.131+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:06.131+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:07:06.202+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:06.202+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:07:06.240+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.324 seconds
+[2023-05-25T16:07:36.425+0200] {processor.py:156} INFO - Started process (PID=9661) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:36.426+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:07:36.428+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:36.427+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:36.541+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:07:36.570+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:36.570+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:07:36.595+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:36.595+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:07:36.626+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.204 seconds
+[2023-05-25T16:08:06.825+0200] {processor.py:156} INFO - Started process (PID=9663) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:06.827+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:08:06.827+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:06.827+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:06.960+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:06.989+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:06.989+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:08:07.009+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:07.009+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:08:07.035+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.213 seconds
+[2023-05-25T16:08:37.227+0200] {processor.py:156} INFO - Started process (PID=9665) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:37.228+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:08:37.229+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:37.229+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:37.380+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:08:37.419+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:37.419+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:08:37.462+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:37.462+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:08:37.498+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.281 seconds
+[2023-05-25T16:09:07.635+0200] {processor.py:156} INFO - Started process (PID=9667) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:07.638+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:09:07.641+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:07.640+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:07.768+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:07.797+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:07.797+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:09:07.821+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:07.820+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:09:07.858+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.228 seconds
+[2023-05-25T16:09:38.082+0200] {processor.py:156} INFO - Started process (PID=9669) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:38.084+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:09:38.085+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:38.085+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:38.201+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:09:38.229+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:38.229+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:09:38.253+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:38.253+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:09:38.292+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.216 seconds
+[2023-05-25T16:10:08.502+0200] {processor.py:156} INFO - Started process (PID=9671) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:08.509+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:10:08.510+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:08.510+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:08.630+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:08.663+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:08.663+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:10:08.683+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:08.683+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:10:08.712+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.215 seconds
+[2023-05-25T16:10:38.936+0200] {processor.py:156} INFO - Started process (PID=9693) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:38.939+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:10:38.940+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:38.940+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:39.069+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:10:39.099+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:39.099+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:10:39.128+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:39.127+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:10:39.173+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.241 seconds
+[2023-05-25T16:11:09.356+0200] {processor.py:156} INFO - Started process (PID=9717) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:09.358+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:11:09.359+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:09.359+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:09.464+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:09.493+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:09.493+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:11:09.524+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:09.523+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:11:09.550+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.200 seconds
+[2023-05-25T16:11:39.755+0200] {processor.py:156} INFO - Started process (PID=9721) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:39.759+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:11:39.760+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:39.760+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:39.881+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:11:39.925+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:39.924+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:11:39.978+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:39.977+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:11:40.007+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.255 seconds
+[2023-05-25T16:12:10.163+0200] {processor.py:156} INFO - Started process (PID=9731) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:10.165+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:12:10.165+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:10.165+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:10.287+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:10.321+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:10.320+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:12:10.359+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:10.358+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:12:10.397+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.238 seconds
+[2023-05-25T16:12:40.554+0200] {processor.py:156} INFO - Started process (PID=9741) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:40.556+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:12:40.556+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:40.556+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:40.793+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:12:40.864+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:40.864+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:12:40.932+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:40.931+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:12:40.975+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.425 seconds
+[2023-05-25T16:13:11.156+0200] {processor.py:156} INFO - Started process (PID=9743) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:11.157+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:13:11.157+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:11.157+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:11.264+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:11.295+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:11.295+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:13:11.323+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:11.323+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:13:11.348+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.194 seconds
+[2023-05-25T16:13:41.568+0200] {processor.py:156} INFO - Started process (PID=9745) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:41.573+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:13:41.575+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:41.574+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:41.669+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:13:41.713+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:41.713+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:13:41.744+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:41.743+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:13:41.773+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.211 seconds
+[2023-05-25T16:14:11.966+0200] {processor.py:156} INFO - Started process (PID=9747) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:11.968+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:14:11.970+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:11.970+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:12.058+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:12.090+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:12.090+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:14:12.145+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:12.145+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:14:12.178+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.218 seconds
+[2023-05-25T16:14:42.376+0200] {processor.py:156} INFO - Started process (PID=9749) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:42.378+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:14:42.378+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:42.378+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:42.528+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:14:42.556+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:42.555+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:14:42.578+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:42.578+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:14:42.608+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.236 seconds
+[2023-05-25T16:15:12.811+0200] {processor.py:156} INFO - Started process (PID=9751) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:12.814+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:15:12.815+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:12.815+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:12.895+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:12.915+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:12.915+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:15:12.935+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:12.934+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:15:12.958+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.151 seconds
+[2023-05-25T16:15:43.087+0200] {processor.py:156} INFO - Started process (PID=9753) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:43.089+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:15:43.090+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:43.090+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:43.183+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:15:43.203+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:43.203+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:15:43.224+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:43.223+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:15:43.251+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.167 seconds
+[2023-05-25T16:16:13.382+0200] {processor.py:156} INFO - Started process (PID=9755) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:13.384+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:16:13.385+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:13.385+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:13.505+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:13.536+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:13.536+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:16:13.565+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:13.564+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:16:13.594+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.219 seconds
+[2023-05-25T16:16:43.784+0200] {processor.py:156} INFO - Started process (PID=9757) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:43.786+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:16:43.787+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:43.787+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:43.878+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:16:43.902+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:43.901+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:16:43.920+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:43.920+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:16:43.944+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.168 seconds
+[2023-05-25T16:17:14.074+0200] {processor.py:156} INFO - Started process (PID=9759) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:14.079+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:17:14.080+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:14.080+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:14.182+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:14.210+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:14.210+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:17:14.231+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:14.231+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:17:14.269+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.203 seconds
+[2023-05-25T16:17:44.432+0200] {processor.py:156} INFO - Started process (PID=9761) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:44.435+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:17:44.439+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:44.437+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:44.540+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:17:44.572+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:44.572+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:17:44.598+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:44.598+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:17:44.629+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.200 seconds
+[2023-05-25T16:18:14.843+0200] {processor.py:156} INFO - Started process (PID=9763) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:14.844+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:18:14.845+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:14.845+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:14.958+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:15.000+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:15.000+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:18:15.028+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:15.028+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:18:15.057+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.217 seconds
+[2023-05-25T16:18:45.230+0200] {processor.py:156} INFO - Started process (PID=9765) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:45.234+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:18:45.235+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:45.235+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:45.342+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:18:45.375+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:45.375+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:18:45.405+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:45.404+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:18:45.434+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.209 seconds
+[2023-05-25T16:19:15.724+0200] {processor.py:156} INFO - Started process (PID=9767) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:15.728+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:19:15.729+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:15.729+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:15.845+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:15.876+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:15.876+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:19:15.898+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:15.897+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:19:15.932+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.212 seconds
+[2023-05-25T16:19:46.143+0200] {processor.py:156} INFO - Started process (PID=9769) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:46.144+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:19:46.145+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:46.145+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:46.246+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:19:46.271+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:46.271+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:19:46.296+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:46.295+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:19:46.323+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.185 seconds
+[2023-05-25T16:20:16.452+0200] {processor.py:156} INFO - Started process (PID=9771) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:16.453+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:20:16.454+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:16.454+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:16.572+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:16.596+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:16.596+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:20:16.617+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:16.617+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:20:16.644+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.199 seconds
+[2023-05-25T16:20:46.831+0200] {processor.py:156} INFO - Started process (PID=9773) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:46.833+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:20:46.834+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:46.834+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:46.941+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:20:46.975+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:46.975+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:20:47.002+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:47.002+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:20:47.033+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.204 seconds
+[2023-05-25T16:21:17.245+0200] {processor.py:156} INFO - Started process (PID=9775) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:17.247+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:21:17.248+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:17.248+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:17.363+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:17.398+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:17.397+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:21:17.421+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:17.420+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:21:17.447+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.207 seconds
+[2023-05-25T16:21:47.632+0200] {processor.py:156} INFO - Started process (PID=9777) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:47.636+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:21:47.637+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:47.637+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:47.725+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:21:47.747+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:47.746+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:21:47.765+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:47.765+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:21:47.794+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.168 seconds
+[2023-05-25T16:22:17.914+0200] {processor.py:156} INFO - Started process (PID=9779) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:17.915+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:22:17.916+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:17.916+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:18.022+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:18.049+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:18.049+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:22:18.067+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:18.067+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:22:18.092+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.182 seconds
+[2023-05-25T16:22:48.208+0200] {processor.py:156} INFO - Started process (PID=9781) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:48.210+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:22:48.211+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:48.211+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:48.305+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:22:48.336+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:48.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:22:48.358+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:48.358+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:22:48.381+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.176 seconds
+[2023-05-25T16:23:18.502+0200] {processor.py:156} INFO - Started process (PID=9783) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:18.503+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:23:18.504+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:18.504+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:18.596+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:18.634+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:18.634+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:23:18.662+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:18.662+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:23:18.693+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.194 seconds
+[2023-05-25T16:23:48.805+0200] {processor.py:156} INFO - Started process (PID=9785) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:48.809+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:23:48.810+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:48.810+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:48.917+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:23:48.949+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:48.949+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:23:48.968+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:48.968+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:23:49.000+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.203 seconds
+[2023-05-25T16:24:19.197+0200] {processor.py:156} INFO - Started process (PID=9787) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:19.198+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:24:19.199+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:19.199+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:19.283+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:19.314+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:19.314+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:24:19.342+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:19.341+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:24:19.369+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.176 seconds
+[2023-05-25T16:24:49.743+0200] {processor.py:156} INFO - Started process (PID=9790) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:49.747+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:24:49.748+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:49.747+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:49.843+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:24:49.865+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:49.865+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:24:49.897+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:49.896+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:24:49.931+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.194 seconds
+[2023-05-25T16:25:20.560+0200] {processor.py:156} INFO - Started process (PID=9793) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:20.561+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:25:20.562+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:20.562+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:20.649+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:20.673+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:20.673+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:25:20.692+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:20.692+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:25:20.718+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.162 seconds
+[2023-05-25T16:25:50.921+0200] {processor.py:156} INFO - Started process (PID=9795) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:50.924+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:25:50.925+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:50.925+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:51.014+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:25:51.041+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:51.040+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:25:51.062+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:51.062+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:25:51.086+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.168 seconds
+[2023-05-25T16:26:21.217+0200] {processor.py:156} INFO - Started process (PID=9797) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:21.219+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:26:21.220+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:21.220+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:21.344+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:21.369+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:21.369+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:26:21.385+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:21.385+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:26:21.406+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.198 seconds
+[2023-05-25T16:26:52.068+0200] {processor.py:156} INFO - Started process (PID=9799) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:52.072+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:26:52.073+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:52.073+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:52.192+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:26:52.213+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:52.213+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:26:52.229+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:52.229+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:26:52.250+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.187 seconds
+[2023-05-25T16:27:22.355+0200] {processor.py:156} INFO - Started process (PID=9801) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:22.357+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:27:22.358+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:22.357+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:22.455+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:22.475+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:22.475+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:27:22.492+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:22.492+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:27:22.519+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.173 seconds
+[2023-05-25T16:27:52.649+0200] {processor.py:156} INFO - Started process (PID=9803) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:52.654+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:27:52.655+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:52.655+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:52.755+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:27:52.783+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:52.783+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:27:52.811+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:52.811+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:27:52.840+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.198 seconds
+[2023-05-25T16:28:23.028+0200] {processor.py:156} INFO - Started process (PID=9806) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:23.029+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:28:23.029+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:23.029+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:23.098+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:23.126+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:23.126+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:28:23.142+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:23.142+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:28:23.162+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.137 seconds
+[2023-05-25T16:28:53.305+0200] {processor.py:156} INFO - Started process (PID=9808) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:53.306+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:28:53.306+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:53.306+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:53.372+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:28:53.390+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:53.390+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:28:53.405+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:53.405+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:28:53.422+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.120 seconds
+[2023-05-25T16:29:23.574+0200] {processor.py:156} INFO - Started process (PID=9810) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:23.574+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:29:23.575+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:23.575+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:23.642+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:23.660+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:23.660+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:29:23.675+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:23.675+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:29:23.699+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.127 seconds
+[2023-05-25T16:29:53.848+0200] {processor.py:156} INFO - Started process (PID=9812) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:53.849+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:29:53.850+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:53.850+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:53.959+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:29:53.983+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:53.983+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:29:54.000+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:54.000+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:29:54.023+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.177 seconds
+[2023-05-25T16:30:28.672+0200] {processor.py:156} INFO - Started process (PID=9815) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:30:28.682+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:30:28.685+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:28.685+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:30:29.147+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:30:29.210+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:29.209+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:30:29.292+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:29.291+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:30:29.357+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.692 seconds
+[2023-05-25T16:31:00.325+0200] {processor.py:156} INFO - Started process (PID=9817) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:00.326+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:31:00.327+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:00.327+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:00.428+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:00.450+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:00.450+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:31:00.467+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:00.467+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:31:00.487+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.165 seconds
+[2023-05-25T16:31:30.885+0200] {processor.py:156} INFO - Started process (PID=9819) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:30.888+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:31:30.888+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:30.888+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:30.955+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:31:30.970+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:30.969+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:31:30.984+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:30.983+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:31:31.002+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.119 seconds
+[2023-05-25T16:32:01.379+0200] {processor.py:156} INFO - Started process (PID=9823) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:01.380+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:32:01.381+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:01.381+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:01.476+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:01.498+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:01.498+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:32:01.519+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:01.519+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:32:01.546+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.173 seconds
+[2023-05-25T16:32:31.854+0200] {processor.py:156} INFO - Started process (PID=9825) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:31.857+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:32:31.858+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:31.858+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:31.933+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:32:31.948+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:31.948+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:32:31.960+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:31.960+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:32:31.981+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.134 seconds
+[2023-05-25T16:33:02.323+0200] {processor.py:156} INFO - Started process (PID=9827) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:02.325+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:33:02.325+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:02.325+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:02.404+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:02.427+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:02.427+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:33:02.443+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:02.443+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:33:02.465+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.144 seconds
+[2023-05-25T16:33:32.816+0200] {processor.py:156} INFO - Started process (PID=9830) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:32.817+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:33:32.817+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:32.817+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:32.877+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:33:32.897+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:32.897+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:33:32.915+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:32.914+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:33:32.935+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.121 seconds
+[2023-05-25T16:34:03.295+0200] {processor.py:156} INFO - Started process (PID=9833) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:03.296+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:34:03.297+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:03.297+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:03.364+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:03.380+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:03.380+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:34:03.393+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:03.393+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:34:03.416+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.123 seconds
+[2023-05-25T16:34:33.772+0200] {processor.py:156} INFO - Started process (PID=9835) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:33.775+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:34:33.775+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:33.775+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:33.840+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:34:33.862+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:33.862+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:34:33.878+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:33.878+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:34:33.898+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.130 seconds
+[2023-05-25T16:35:04.118+0200] {processor.py:156} INFO - Started process (PID=9837) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:04.119+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:35:04.120+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:04.119+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:04.180+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:04.195+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:04.194+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:35:04.206+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:04.206+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:35:04.230+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.115 seconds
+[2023-05-25T16:35:34.440+0200] {processor.py:156} INFO - Started process (PID=9839) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:34.442+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:35:34.442+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:34.442+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:34.504+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:35:34.517+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:34.517+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:35:34.530+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:34.529+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:35:34.547+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.109 seconds
+[2023-05-25T16:36:04.746+0200] {processor.py:156} INFO - Started process (PID=9841) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:04.747+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:36:04.748+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:04.748+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:04.806+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:04.820+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:04.819+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:36:04.838+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:04.838+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:36:04.859+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.115 seconds
+[2023-05-25T16:36:35.087+0200] {processor.py:156} INFO - Started process (PID=9843) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:35.091+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:36:35.091+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:35.091+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:35.167+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:36:35.184+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:35.183+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:36:35.201+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:35.201+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:36:35.228+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.143 seconds
+[2023-05-25T16:37:05.436+0200] {processor.py:156} INFO - Started process (PID=9845) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:05.438+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:37:05.439+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:05.439+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:05.513+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:05.528+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:05.527+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:37:05.539+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:05.539+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:37:05.559+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.126 seconds
+[2023-05-25T16:37:35.727+0200] {processor.py:156} INFO - Started process (PID=9847) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:35.727+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:37:35.728+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:35.728+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:35.788+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:37:35.800+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:35.800+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:37:35.811+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:35.811+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:37:35.834+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.110 seconds
+[2023-05-25T16:38:06.047+0200] {processor.py:156} INFO - Started process (PID=9849) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:06.051+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:38:06.051+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:06.051+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:06.124+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:06.138+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:06.138+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:38:06.153+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:06.153+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:38:06.171+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.126 seconds
+[2023-05-25T16:38:36.348+0200] {processor.py:156} INFO - Started process (PID=9851) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:36.352+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:38:36.352+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:36.352+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:36.411+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:38:36.424+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:36.424+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:38:36.436+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:36.436+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:38:36.460+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.114 seconds
+[2023-05-25T16:39:06.682+0200] {processor.py:156} INFO - Started process (PID=9853) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:06.683+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:39:06.684+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:06.684+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:06.761+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:06.777+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:06.777+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:39:06.791+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:06.791+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:39:06.816+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.137 seconds
+[2023-05-25T16:39:37.012+0200] {processor.py:156} INFO - Started process (PID=9855) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:37.013+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:39:37.014+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:37.014+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:37.103+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:39:37.122+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:37.122+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:39:37.138+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:37.138+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:39:37.194+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.185 seconds
+[2023-05-25T16:40:07.317+0200] {processor.py:156} INFO - Started process (PID=9857) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:07.318+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:40:07.319+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:07.319+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:07.401+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:07.423+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:07.423+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:40:07.473+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:07.473+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:40:07.527+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.212 seconds
+[2023-05-25T16:40:37.941+0200] {processor.py:156} INFO - Started process (PID=9888) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:37.944+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:40:37.946+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:37.946+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:38.306+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:40:38.391+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:38.391+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:40:38.507+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:38.506+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:40:38.601+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.700 seconds
+[2023-05-25T16:41:09.500+0200] {processor.py:156} INFO - Started process (PID=9890) to work on /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:41:09.512+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/youtube_project_dag.py for tasks to queue
+[2023-05-25T16:41:09.516+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:09.516+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:41:09.714+0200] {processor.py:768} INFO - DAG(s) dict_keys(['youtube_dag']) retrieved from /home/julien/airflow/dags/youtube_project_dag.py
+[2023-05-25T16:41:09.733+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:09.733+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:41:09.748+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:09.748+0200] {dag.py:3324} INFO - Setting next_dagrun for youtube_dag to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:41:09.784+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/youtube_project_dag.py took 0.296 seconds

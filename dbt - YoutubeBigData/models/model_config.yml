@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: marts_youtube_data
+    description: "This table is the made from channels_ranking and videos_stats tables combination."
+    config: 
+      materialized: table
+    columns:
+      - name: title
+        description: "Video title"
+      - name: description
+        description: "Description of the video made by the publisher"
+      - name: publishedAt
+        description: "Datetime the video has been published"
+      - name: viewCount
+        description: "Number of views of the video"
+      - name: likeCount
+        description: "Number of likes of the video"
+      - name: commentCount
+        description: "Number of comments of the video"
+      - name: video_id
+        description: "Unique id of the video"
+      - name: channel_rank
+        description: "YouTube channel ranking in the TOP 100"
+      - name: channel_name
+        description: "Name of the YouTube channel"
+      - name: channel_link
+        description: "Link of the YouTube channel"
+      - name: channel_id
+        description: "Unique id of the YouTube channel"
+      - name: channel_uploads
+        description: "Number of uploads of the YouTube channel"
+      - name: channel_subs
+        description: "Number of subscribers of the YouTube channel"
+      - name: channel_totalviews
+        description: "Number of total views of the YouTube channel"
+      - name: channel_categ
+        description: "Category of the YouTube channel"

@@ -1,0 +1,259 @@
+[2023-06-10T21:02:30.222+0200] {processor.py:156} INFO - Started process (PID=30969) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:02:30.224+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:02:30.225+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:30.224+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:02:30.600+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:02:30.826+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:30.825+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:02:30.896+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:30.893+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:02:31.014+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.808 seconds
+[2023-06-10T21:03:01.424+0200] {processor.py:156} INFO - Started process (PID=30975) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:01.426+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:03:01.427+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:01.427+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:01.562+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:01.586+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:01.586+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:03:01.606+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:01.606+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:03:01.636+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.214 seconds
+[2023-06-10T21:03:32.182+0200] {processor.py:156} INFO - Started process (PID=30980) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:32.185+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:03:32.186+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:32.186+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:32.243+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:03:32.265+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:32.265+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:03:32.285+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:32.284+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:03:32.322+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.144 seconds
+[2023-06-10T21:04:02.700+0200] {processor.py:156} INFO - Started process (PID=30987) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:02.707+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:04:02.708+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:02.707+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:02.779+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:02.799+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:02.798+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:04:02.815+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:02.815+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:04:02.852+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.159 seconds
+[2023-06-10T21:04:33.197+0200] {processor.py:156} INFO - Started process (PID=30992) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:33.198+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:04:33.199+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:33.199+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:33.259+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:04:33.278+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:33.278+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:04:33.301+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:33.301+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:04:33.329+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.134 seconds
+[2023-06-10T21:05:03.702+0200] {processor.py:156} INFO - Started process (PID=30997) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:03.706+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:05:03.707+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:03.706+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:03.771+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:03.787+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:03.787+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:05:03.807+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:03.807+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:05:03.831+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.134 seconds
+[2023-06-10T21:05:34.244+0200] {processor.py:156} INFO - Started process (PID=31002) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:34.246+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:05:34.247+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:34.247+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:34.317+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:05:34.337+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:34.337+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:05:34.351+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:34.351+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:05:34.377+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.136 seconds
+[2023-06-10T21:06:04.743+0200] {processor.py:156} INFO - Started process (PID=31007) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:04.746+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:06:04.747+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:04.747+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:04.805+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:04.825+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:04.824+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:06:04.844+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:04.844+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:06:04.868+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.130 seconds
+[2023-06-10T21:06:35.266+0200] {processor.py:156} INFO - Started process (PID=31012) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:35.267+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:06:35.268+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:35.268+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:35.329+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:06:35.353+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:35.352+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:06:35.366+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:35.366+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:06:35.390+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.129 seconds
+[2023-06-10T21:07:05.820+0200] {processor.py:156} INFO - Started process (PID=31017) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:05.823+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:07:05.824+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:05.824+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:05.894+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:05.920+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:05.920+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:07:05.943+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:05.943+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:07:05.969+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.153 seconds
+[2023-06-10T21:07:36.322+0200] {processor.py:156} INFO - Started process (PID=31022) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:36.326+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:07:36.327+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:36.327+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:36.391+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:07:36.408+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:36.407+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:07:36.423+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:36.423+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:07:36.448+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.132 seconds
+[2023-06-10T21:08:06.763+0200] {processor.py:156} INFO - Started process (PID=31027) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:06.767+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:08:06.768+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:06.767+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:06.829+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:06.844+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:06.844+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:08:06.856+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:06.856+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:08:06.881+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.124 seconds
+[2023-06-10T21:08:37.193+0200] {processor.py:156} INFO - Started process (PID=31032) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:37.197+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:08:37.198+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:37.198+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:37.258+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:08:37.274+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:37.274+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:08:37.292+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:37.291+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:08:37.322+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.132 seconds
+[2023-06-10T21:09:07.646+0200] {processor.py:156} INFO - Started process (PID=31037) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:07.650+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:09:07.650+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:07.650+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:07.729+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:07.749+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:07.749+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:09:07.771+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:07.770+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:09:07.796+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.155 seconds
+[2023-06-10T21:09:38.098+0200] {processor.py:156} INFO - Started process (PID=31042) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:38.101+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:09:38.102+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:38.102+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:38.175+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:09:38.191+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:38.191+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:09:38.207+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:38.207+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:09:38.231+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.138 seconds
+[2023-06-10T21:10:08.621+0200] {processor.py:156} INFO - Started process (PID=31047) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:08.623+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:10:08.623+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:08.623+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:08.780+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:08.800+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:08.800+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:10:08.818+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:08.818+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:10:08.839+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.221 seconds
+[2023-06-10T21:10:39.247+0200] {processor.py:156} INFO - Started process (PID=31052) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:39.251+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:10:39.253+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:39.252+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:39.376+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:10:39.400+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:39.400+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:10:39.424+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:39.424+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:10:39.443+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.200 seconds
+[2023-06-10T21:11:09.864+0200] {processor.py:156} INFO - Started process (PID=31057) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:09.868+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:11:09.870+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:09.869+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:09.987+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:10.011+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:10.011+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:11:10.026+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:10.026+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:11:10.051+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.192 seconds
+[2023-06-10T21:11:40.356+0200] {processor.py:156} INFO - Started process (PID=31062) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:40.359+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:11:40.359+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:40.359+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:40.450+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:11:40.474+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:40.474+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:11:40.495+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:40.495+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:11:40.518+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.165 seconds
+[2023-06-10T21:12:10.869+0200] {processor.py:156} INFO - Started process (PID=31067) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:10.870+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:12:10.871+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:10.871+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:10.980+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:11.031+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:11.031+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:12:11.083+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:11.083+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:12:11.142+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.277 seconds
+[2023-06-10T21:12:41.525+0200] {processor.py:156} INFO - Started process (PID=31074) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:41.529+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:12:41.529+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:41.529+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:41.674+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:12:41.695+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:41.695+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:12:41.727+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:41.726+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:12:41.755+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.234 seconds
+[2023-06-10T21:13:12.165+0200] {processor.py:156} INFO - Started process (PID=31080) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:12.168+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:13:12.169+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:12.169+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:12.341+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:12.361+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:12.361+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:13:12.376+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:12.376+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:13:12.395+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.234 seconds
+[2023-06-10T21:13:42.772+0200] {processor.py:156} INFO - Started process (PID=31085) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:42.772+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:13:42.773+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:42.773+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:42.833+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:13:42.848+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:42.848+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:13:42.866+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:42.866+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:13:42.888+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.119 seconds
+[2023-06-10T21:14:13.270+0200] {processor.py:156} INFO - Started process (PID=31090) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:13.274+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:14:13.274+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:13.274+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:13.343+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:13.359+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:13.359+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:14:13.374+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:13.374+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:14:13.397+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.130 seconds
+[2023-06-10T21:14:43.788+0200] {processor.py:156} INFO - Started process (PID=31095) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:43.790+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:14:43.790+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:43.790+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:43.853+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:14:43.870+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:43.869+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:14:43.884+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:43.884+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:14:43.905+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.121 seconds
+[2023-06-10T21:15:14.298+0200] {processor.py:156} INFO - Started process (PID=31100) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:14.301+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:15:14.302+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:14.302+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:14.366+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:14.383+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:14.383+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:15:14.396+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:14.396+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:15:14.418+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.123 seconds
+[2023-06-10T21:15:44.821+0200] {processor.py:156} INFO - Started process (PID=31105) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:44.822+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:15:44.823+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:44.823+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:44.884+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:15:44.900+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:44.900+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:15:44.913+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:44.913+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:15:44.933+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.115 seconds
+[2023-06-10T21:16:15.336+0200] {processor.py:156} INFO - Started process (PID=31110) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:15.340+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:16:15.341+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:15.341+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:15.402+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:15.418+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:15.418+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:16:15.432+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:15.432+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:16:15.453+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.119 seconds
+[2023-06-10T21:16:45.868+0200] {processor.py:156} INFO - Started process (PID=31115) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:45.870+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:16:45.871+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:45.871+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:45.944+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:16:45.967+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:45.967+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:16:45.996+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:45.996+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:16:46.027+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.165 seconds
+[2023-06-10T21:17:16.366+0200] {processor.py:156} INFO - Started process (PID=31120) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:16.369+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:17:16.370+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:16.370+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:16.435+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:16.451+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:16.451+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:17:16.466+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:16.466+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:17:16.489+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.127 seconds
+[2023-06-10T21:17:47.059+0200] {processor.py:156} INFO - Started process (PID=31125) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:47.060+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:17:47.061+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:47.060+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:47.143+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:17:47.169+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:47.169+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:17:47.186+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:47.186+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:17:47.206+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.152 seconds
+[2023-06-10T21:18:17.426+0200] {processor.py:156} INFO - Started process (PID=31130) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:17.429+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:18:17.430+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:17.430+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:17.514+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:17.530+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:17.530+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:18:17.552+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:17.552+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:18:17.573+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.151 seconds
+[2023-06-10T21:18:47.760+0200] {processor.py:156} INFO - Started process (PID=31135) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:47.764+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:18:47.764+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:47.764+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:47.823+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:18:47.838+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:47.838+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:18:47.855+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:47.855+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:18:47.877+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.120 seconds
+[2023-06-10T21:19:18.095+0200] {processor.py:156} INFO - Started process (PID=31140) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:18.099+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:19:18.100+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:18.099+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:18.167+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:18.189+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:18.189+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:19:18.201+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:18.201+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:19:18.227+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.139 seconds
+[2023-06-10T21:19:48.481+0200] {processor.py:156} INFO - Started process (PID=31145) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:48.482+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:19:48.483+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:48.483+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:48.573+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:19:48.592+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:48.592+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:19:48.610+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:48.610+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:19:48.637+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.160 seconds
+[2023-06-10T21:51:19.584+0200] {processor.py:156} INFO - Started process (PID=31273) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:19.587+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:51:19.588+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:19.588+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:19.650+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:19.658+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:19.658+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:51:19.673+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:19.672+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:51:19.694+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.117 seconds
+[2023-06-10T21:51:50.850+0200] {processor.py:156} INFO - Started process (PID=31455) to work on /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:50.853+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testvictordag.py for tasks to queue
+[2023-06-10T21:51:50.853+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:50.853+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:51.006+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testvictor']) retrieved from /home/julien/airflow/dags/testvictordag.py
+[2023-06-10T21:51:51.041+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:51.041+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:51:51.217+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:51.217+0200] {dag.py:3324} INFO - Setting next_dagrun for testvictor to 2023-07-01T00:00:00+00:00, run_after=2023-08-01T00:00:00+00:00
+[2023-06-10T21:51:51.245+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testvictordag.py took 0.399 seconds

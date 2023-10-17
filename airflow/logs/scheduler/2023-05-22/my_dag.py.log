@@ -1,0 +1,203 @@
+[2023-05-22T10:41:06.594+0200] {processor.py:156} INFO - Started process (PID=1561) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:06.595+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:41:06.596+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:06.596+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:06.619+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:06.643+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:06.643+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:41:06.660+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:06.660+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:41:06.678+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.086 seconds
+[2023-05-22T10:41:36.794+0200] {processor.py:156} INFO - Started process (PID=1562) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:36.795+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:41:36.796+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:36.796+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:36.809+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:41:36.827+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:36.827+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:41:36.851+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:41:36.851+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:41:36.869+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.078 seconds
+[2023-05-22T10:42:07.176+0200] {processor.py:156} INFO - Started process (PID=1563) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:07.178+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:42:07.179+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:07.179+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:07.192+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:07.217+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:07.217+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:42:07.238+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:07.238+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:42:07.260+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.087 seconds
+[2023-05-22T10:42:37.577+0200] {processor.py:156} INFO - Started process (PID=1564) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:37.578+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:42:37.578+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:37.578+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:37.591+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:42:37.606+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:37.606+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:42:37.619+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:42:37.619+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:42:37.637+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.062 seconds
+[2023-05-22T10:43:07.970+0200] {processor.py:156} INFO - Started process (PID=1565) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:07.972+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:43:07.973+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:07.972+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:07.985+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:08.004+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:08.004+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:43:08.016+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:08.016+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:43:08.037+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.068 seconds
+[2023-05-22T10:43:51.407+0200] {processor.py:156} INFO - Started process (PID=1579) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:51.410+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:43:51.410+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:51.410+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:51.425+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:43:51.442+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:51.442+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:43:51.457+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:43:51.457+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:43:51.474+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.069 seconds
+[2023-05-22T10:44:18.136+0200] {processor.py:156} INFO - Started process (PID=1620) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:18.140+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:44:18.141+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:18.141+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:18.159+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:18.170+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:18.170+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:44:18.189+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:18.189+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:44:18.209+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.076 seconds
+[2023-05-22T10:44:48.243+0200] {processor.py:156} INFO - Started process (PID=1621) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:48.247+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:44:48.248+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:48.248+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:48.266+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:44:48.290+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:48.289+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:44:48.306+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:44:48.306+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:44:48.325+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.086 seconds
+[2023-05-22T10:45:18.524+0200] {processor.py:156} INFO - Started process (PID=1622) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:18.527+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:45:18.527+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:18.527+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:18.539+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:18.558+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:18.558+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:45:18.571+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:18.571+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:45:18.590+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.069 seconds
+[2023-05-22T10:45:48.807+0200] {processor.py:156} INFO - Started process (PID=1641) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:48.809+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:45:48.809+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:48.809+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:48.820+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:45:48.838+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:48.838+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:45:48.850+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:45:48.850+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:45:48.867+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.062 seconds
+[2023-05-22T10:46:19.095+0200] {processor.py:156} INFO - Started process (PID=1642) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:19.095+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:46:19.096+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:19.096+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:19.106+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:19.124+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:19.124+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:46:19.137+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:19.136+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:46:19.152+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.059 seconds
+[2023-05-22T10:46:49.368+0200] {processor.py:156} INFO - Started process (PID=1643) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:49.369+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:46:49.370+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:49.370+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:49.382+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:46:49.398+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:49.398+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:46:49.413+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:46:49.413+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:46:49.432+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.066 seconds
+[2023-05-22T10:47:19.646+0200] {processor.py:156} INFO - Started process (PID=1644) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:19.649+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:47:19.649+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:19.649+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:19.662+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:19.685+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:19.685+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:47:19.699+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:19.699+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:47:19.715+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.072 seconds
+[2023-05-22T10:47:49.834+0200] {processor.py:156} INFO - Started process (PID=1645) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:49.837+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:47:49.838+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:49.838+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:49.850+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:47:49.866+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:49.865+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:47:49.878+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:47:49.878+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:47:49.897+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.065 seconds
+[2023-05-22T10:48:20.140+0200] {processor.py:156} INFO - Started process (PID=1646) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:20.141+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:48:20.142+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:20.142+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:20.176+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:20.211+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:20.210+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:48:20.247+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:20.247+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:48:20.273+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.145 seconds
+[2023-05-22T10:48:50.521+0200] {processor.py:156} INFO - Started process (PID=1647) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:50.525+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:48:50.526+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:50.525+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:50.539+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:48:50.557+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:50.557+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:48:50.572+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:48:50.572+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:48:50.590+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.071 seconds
+[2023-05-22T10:49:20.803+0200] {processor.py:156} INFO - Started process (PID=1662) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:49:20.804+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:49:20.804+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:49:20.804+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:49:20.817+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:49:20.839+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:49:20.838+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:49:20.858+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:49:20.858+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:49:20.878+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.078 seconds
+[2023-05-22T10:50:42.245+0200] {processor.py:156} INFO - Started process (PID=1705) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:50:42.247+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:50:42.248+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:50:42.248+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:50:42.285+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:50:42.300+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:50:42.300+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:50:42.324+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:50:42.323+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:50:42.347+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.106 seconds
+[2023-05-22T10:51:13.467+0200] {processor.py:156} INFO - Started process (PID=1739) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:13.469+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:51:13.469+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:13.469+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:13.485+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:13.529+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:13.529+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:51:13.548+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:13.548+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:51:13.568+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.107 seconds
+[2023-05-22T10:51:43.700+0200] {processor.py:156} INFO - Started process (PID=1740) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:43.701+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:51:43.702+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:43.702+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:43.734+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:51:43.766+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:43.765+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:51:43.788+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:51:43.788+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:51:43.809+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.111 seconds
+[2023-05-22T10:52:13.941+0200] {processor.py:156} INFO - Started process (PID=1741) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:13.945+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:52:13.945+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:13.945+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:13.956+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:13.982+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:13.981+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:52:13.998+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:13.998+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:52:14.017+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.078 seconds
+[2023-05-22T10:52:44.194+0200] {processor.py:156} INFO - Started process (PID=1742) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:44.197+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:52:44.198+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:44.198+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:44.211+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:52:44.230+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:44.230+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:52:44.243+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:52:44.243+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:52:44.261+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.070 seconds
+[2023-05-22T10:53:14.434+0200] {processor.py:156} INFO - Started process (PID=1743) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:14.435+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:53:14.435+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:14.435+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:14.449+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:14.469+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:14.469+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:53:14.487+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:14.487+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:53:14.506+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.075 seconds
+[2023-05-22T10:53:44.726+0200] {processor.py:156} INFO - Started process (PID=1744) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:44.727+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:53:44.728+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:44.728+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:44.742+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:53:44.761+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:44.761+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:53:44.779+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:53:44.779+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:53:44.800+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.076 seconds
+[2023-05-22T10:54:14.975+0200] {processor.py:156} INFO - Started process (PID=1745) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:14.977+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:54:14.977+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:14.977+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:14.990+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:15.008+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:15.008+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:54:15.022+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:15.022+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:54:15.047+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.073 seconds
+[2023-05-22T10:54:45.220+0200] {processor.py:156} INFO - Started process (PID=1746) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:45.224+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:54:45.224+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:45.224+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:45.238+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:54:45.257+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:45.257+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:54:45.275+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:54:45.275+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:54:45.303+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.086 seconds
+[2023-05-22T10:55:15.527+0200] {processor.py:156} INFO - Started process (PID=1747) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:15.529+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:55:15.530+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:15.530+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:15.543+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:15.559+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:15.559+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:55:15.575+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:15.575+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-21T00:00:00+00:00, run_after=2023-05-22T00:00:00+00:00
+[2023-05-22T10:55:15.592+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.067 seconds
+[2023-05-22T10:55:45.769+0200] {processor.py:156} INFO - Started process (PID=1748) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:45.772+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:55:45.773+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:45.773+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:45.789+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:55:45.813+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:45.813+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:55:45.831+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:55:45.831+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-20T00:00:00+00:00, run_after=2023-05-21T00:00:00+00:00
+[2023-05-22T10:55:45.855+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.088 seconds
+[2023-05-22T10:56:16.097+0200] {processor.py:156} INFO - Started process (PID=1895) to work on /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:56:16.101+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/my_dag.py for tasks to queue
+[2023-05-22T10:56:16.103+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:56:16.102+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:56:16.162+0200] {processor.py:768} INFO - DAG(s) dict_keys(['dbt_pipeline']) retrieved from /home/julien/airflow/dags/my_dag.py
+[2023-05-22T10:56:16.231+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:56:16.231+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-22T10:56:16.275+0200] {logging_mixin.py:117} INFO - [2023-05-22T10:56:16.275+0200] {dag.py:3324} INFO - Setting next_dagrun for dbt_pipeline to 2023-05-20T00:00:00+00:00, run_after=2023-05-21T00:00:00+00:00
+[2023-05-22T10:56:16.327+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/my_dag.py took 0.242 seconds

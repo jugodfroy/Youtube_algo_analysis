@@ -1,0 +1,700 @@
+[2023-05-25T15:37:24.582+0200] {processor.py:156} INFO - Started process (PID=9120) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:24.651+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:37:24.682+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:24.676+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:26.040+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:26.432+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:26.431+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:37:26.725+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:26.725+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:37:26.830+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 2.643 seconds
+[2023-05-25T15:37:57.519+0200] {processor.py:156} INFO - Started process (PID=9154) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:57.521+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:37:57.523+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:57.523+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:57.651+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:37:57.676+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:57.676+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:37:57.835+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:37:57.835+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:37:57.862+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.348 seconds
+[2023-05-25T15:38:28.273+0200] {processor.py:156} INFO - Started process (PID=9156) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:28.279+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:38:28.280+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:28.280+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:28.416+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:28.440+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:28.439+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:38:28.606+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:28.606+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:38:28.647+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.382 seconds
+[2023-05-25T15:38:59.232+0200] {processor.py:156} INFO - Started process (PID=9158) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:59.236+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:38:59.236+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:59.236+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:59.349+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:38:59.384+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:59.383+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:38:59.540+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:38:59.539+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:38:59.571+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.342 seconds
+[2023-05-25T15:39:30.547+0200] {processor.py:156} INFO - Started process (PID=9209) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:39:30.554+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:39:30.555+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:30.554+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:39:30.832+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:39:31.206+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:31.205+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:39:31.256+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:39:31.255+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:39:31.300+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.762 seconds
+[2023-05-25T15:53:05.563+0200] {processor.py:156} INFO - Started process (PID=9374) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:05.567+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:53:05.570+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:05.570+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:05.825+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:06.090+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:06.090+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:53:06.125+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:06.125+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:53:06.158+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.607 seconds
+[2023-05-25T15:53:36.325+0200] {processor.py:156} INFO - Started process (PID=9376) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:36.327+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:53:36.328+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:36.327+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:36.418+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:53:36.531+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:36.531+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:53:36.551+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:53:36.551+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:53:36.575+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.257 seconds
+[2023-05-25T15:54:07.096+0200] {processor.py:156} INFO - Started process (PID=9378) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:07.097+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:54:07.098+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:07.098+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:07.265+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:07.284+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:07.284+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:54:07.301+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:07.301+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:54:07.326+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.234 seconds
+[2023-05-25T15:54:37.925+0200] {processor.py:156} INFO - Started process (PID=9490) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:37.925+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:54:37.927+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:37.926+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:38.153+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:54:38.170+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:38.170+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:54:38.188+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:54:38.187+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:54:38.213+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.293 seconds
+[2023-05-25T15:55:13.642+0200] {processor.py:156} INFO - Started process (PID=9552) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:13.654+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:55:13.667+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:13.665+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:17.314+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:17.444+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:17.444+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:55:17.536+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:17.536+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:55:17.665+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 4.079 seconds
+[2023-05-25T15:55:48.624+0200] {processor.py:156} INFO - Started process (PID=9554) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:48.626+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:55:48.627+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:48.627+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:49.356+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:55:49.405+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:49.405+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:55:49.453+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:55:49.453+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:55:49.506+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.930 seconds
+[2023-05-25T15:56:19.744+0200] {processor.py:156} INFO - Started process (PID=9578) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:19.746+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:56:19.747+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:19.746+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:20.159+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:20.248+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:20.248+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:56:20.288+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:20.288+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:56:20.719+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.988 seconds
+[2023-05-25T15:56:51.580+0200] {processor.py:156} INFO - Started process (PID=9605) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:51.582+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:56:51.583+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:51.582+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:51.877+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:56:51.907+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:51.907+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:56:51.935+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:56:51.935+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:56:52.004+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.431 seconds
+[2023-05-25T15:57:22.356+0200] {processor.py:156} INFO - Started process (PID=9608) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:22.368+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:57:22.371+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:22.370+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:22.607+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:22.627+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:22.627+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:57:22.648+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:22.648+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:57:22.694+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.342 seconds
+[2023-05-25T15:57:52.940+0200] {processor.py:156} INFO - Started process (PID=9610) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:52.942+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:57:52.943+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:52.943+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:53.157+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:57:53.179+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:53.178+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:57:53.196+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:57:53.195+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:57:53.232+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.297 seconds
+[2023-05-25T15:58:26.805+0200] {processor.py:156} INFO - Started process (PID=9626) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:26.835+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:58:26.836+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:26.836+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:27.471+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:27.529+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:27.529+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:58:27.558+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:27.558+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:58:27.708+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.909 seconds
+[2023-05-25T15:58:58.275+0200] {processor.py:156} INFO - Started process (PID=9628) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:58.289+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:58:58.291+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:58.291+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:58.577+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:58:58.606+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:58.606+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:58:58.643+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:58:58.643+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:58:58.681+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.414 seconds
+[2023-05-25T15:59:29.619+0200] {processor.py:156} INFO - Started process (PID=9630) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:59:29.621+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T15:59:29.622+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:29.622+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:59:29.829+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T15:59:29.846+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:29.846+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T15:59:29.866+0200] {logging_mixin.py:117} INFO - [2023-05-25T15:59:29.866+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T15:59:29.904+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.292 seconds
+[2023-05-25T16:00:00.909+0200] {processor.py:156} INFO - Started process (PID=9632) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:00.912+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:00:00.913+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:00.913+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:01.190+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:01.210+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:01.209+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:00:01.233+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:01.232+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:00:01.258+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.355 seconds
+[2023-05-25T16:00:32.066+0200] {processor.py:156} INFO - Started process (PID=9634) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:32.115+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:00:32.117+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:32.117+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:33.340+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:00:33.368+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:33.368+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:00:33.387+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:00:33.387+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:00:33.509+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 1.531 seconds
+[2023-05-25T16:01:03.799+0200] {processor.py:156} INFO - Started process (PID=9636) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:03.853+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:01:03.855+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:03.854+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:04.271+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:04.293+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:04.293+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:01:04.312+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:04.311+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:01:05.238+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 1.445 seconds
+[2023-05-25T16:01:36.173+0200] {processor.py:156} INFO - Started process (PID=9638) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:36.174+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:01:36.175+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:36.175+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:36.452+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:01:36.480+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:36.479+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:01:36.501+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:01:36.501+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:01:36.522+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.353 seconds
+[2023-05-25T16:02:07.446+0200] {processor.py:156} INFO - Started process (PID=9640) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:07.447+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:02:07.448+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:07.448+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:07.723+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:07.743+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:07.743+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:02:07.768+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:07.767+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:02:07.812+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.371 seconds
+[2023-05-25T16:02:38.240+0200] {processor.py:156} INFO - Started process (PID=9642) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:38.241+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:02:38.243+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:38.242+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:38.487+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:02:38.527+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:38.527+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:02:38.554+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:02:38.554+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:02:38.582+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.344 seconds
+[2023-05-25T16:03:09.049+0200] {processor.py:156} INFO - Started process (PID=9644) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:09.053+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:03:09.054+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:09.054+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:09.366+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:09.397+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:09.397+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:03:09.420+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:09.420+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:03:09.462+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.418 seconds
+[2023-05-25T16:03:39.971+0200] {processor.py:156} INFO - Started process (PID=9646) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:39.973+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:03:39.974+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:39.973+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:40.069+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:03:40.093+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:40.093+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:03:40.123+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:03:40.123+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:03:40.154+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.188 seconds
+[2023-05-25T16:04:10.558+0200] {processor.py:156} INFO - Started process (PID=9648) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:10.560+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:04:10.563+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:10.562+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:10.667+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:10.693+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:10.693+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:04:10.726+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:10.726+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:04:10.818+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.264 seconds
+[2023-05-25T16:04:41.283+0200] {processor.py:156} INFO - Started process (PID=9650) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:41.284+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:04:41.285+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:41.285+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:41.395+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:04:41.427+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:41.427+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:04:41.455+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:04:41.455+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:04:41.482+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.204 seconds
+[2023-05-25T16:05:12.056+0200] {processor.py:156} INFO - Started process (PID=9652) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:12.060+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:05:12.061+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:12.061+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:12.181+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:12.207+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:12.207+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:05:12.231+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:12.231+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:05:12.255+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.203 seconds
+[2023-05-25T16:05:42.765+0200] {processor.py:156} INFO - Started process (PID=9654) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:42.768+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:05:42.769+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:42.769+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:42.901+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:05:42.930+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:42.929+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:05:42.950+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:05:42.950+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:05:42.990+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.231 seconds
+[2023-05-25T16:06:13.467+0200] {processor.py:156} INFO - Started process (PID=9656) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:13.469+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:06:13.470+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:13.469+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:13.622+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:13.669+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:13.669+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:06:13.696+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:13.696+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:06:13.723+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.263 seconds
+[2023-05-25T16:06:44.166+0200] {processor.py:156} INFO - Started process (PID=9658) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:44.168+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:06:44.169+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:44.168+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:44.262+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:06:44.294+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:44.294+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:06:44.329+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:06:44.329+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:06:44.367+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.206 seconds
+[2023-05-25T16:07:14.865+0200] {processor.py:156} INFO - Started process (PID=9660) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:14.867+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:07:14.868+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:14.867+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:15.027+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:15.073+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:15.072+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:07:15.115+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:15.115+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:07:15.158+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.298 seconds
+[2023-05-25T16:07:45.648+0200] {processor.py:156} INFO - Started process (PID=9662) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:45.658+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:07:45.660+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:45.660+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:45.838+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:07:45.887+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:45.887+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:07:45.929+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:07:45.928+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:07:45.970+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.338 seconds
+[2023-05-25T16:08:16.388+0200] {processor.py:156} INFO - Started process (PID=9664) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:16.390+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:08:16.391+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:16.390+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:16.497+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:16.527+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:16.526+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:08:16.552+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:16.550+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:08:16.578+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.197 seconds
+[2023-05-25T16:08:46.835+0200] {processor.py:156} INFO - Started process (PID=9666) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:46.836+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:08:46.837+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:46.837+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:46.962+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:08:46.988+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:46.988+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:08:47.007+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:08:47.007+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:08:47.072+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.242 seconds
+[2023-05-25T16:09:17.621+0200] {processor.py:156} INFO - Started process (PID=9668) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:17.625+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:09:17.626+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:17.625+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:17.725+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:17.758+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:17.758+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:09:17.789+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:17.789+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:09:17.836+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.219 seconds
+[2023-05-25T16:09:48.088+0200] {processor.py:156} INFO - Started process (PID=9670) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:48.090+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:09:48.091+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:48.090+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:48.210+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:09:48.242+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:48.242+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:09:48.273+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:09:48.272+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:09:48.300+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.219 seconds
+[2023-05-25T16:10:18.900+0200] {processor.py:156} INFO - Started process (PID=9692) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:18.905+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:10:18.907+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:18.907+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:19.026+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:19.050+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:19.050+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:10:19.074+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:19.073+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:10:19.099+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.208 seconds
+[2023-05-25T16:10:49.317+0200] {processor.py:156} INFO - Started process (PID=9710) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:49.322+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:10:49.322+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:49.322+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:49.417+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:10:49.444+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:49.443+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:10:49.483+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:10:49.483+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:10:49.509+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.198 seconds
+[2023-05-25T16:11:19.791+0200] {processor.py:156} INFO - Started process (PID=9720) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:19.795+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:11:19.797+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:19.797+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:19.908+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:19.950+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:19.949+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:11:19.978+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:19.978+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:11:20.009+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.225 seconds
+[2023-05-25T16:11:50.254+0200] {processor.py:156} INFO - Started process (PID=9730) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:50.255+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:11:50.256+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:50.256+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:50.367+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:11:50.403+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:50.403+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:11:50.434+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:11:50.433+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:11:50.469+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.221 seconds
+[2023-05-25T16:12:20.707+0200] {processor.py:156} INFO - Started process (PID=9740) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:20.711+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:12:20.712+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:20.712+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:20.816+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:20.838+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:20.838+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:12:20.857+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:20.857+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:12:20.877+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.178 seconds
+[2023-05-25T16:12:51.134+0200] {processor.py:156} INFO - Started process (PID=9742) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:51.136+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:12:51.136+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:51.136+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:51.253+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:12:51.275+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:51.274+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:12:51.316+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:12:51.315+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:12:51.347+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.221 seconds
+[2023-05-25T16:13:21.599+0200] {processor.py:156} INFO - Started process (PID=9744) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:21.602+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:13:21.603+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:21.603+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:21.722+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:21.771+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:21.771+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:13:21.801+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:21.800+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:13:21.830+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.234 seconds
+[2023-05-25T16:13:52.038+0200] {processor.py:156} INFO - Started process (PID=9746) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:52.039+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:13:52.040+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:52.040+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:52.186+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:13:52.215+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:52.215+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:13:52.243+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:13:52.243+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:13:52.273+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.241 seconds
+[2023-05-25T16:14:22.532+0200] {processor.py:156} INFO - Started process (PID=9748) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:22.533+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:14:22.534+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:22.534+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:22.633+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:22.654+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:22.654+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:14:22.675+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:22.675+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:14:22.700+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.175 seconds
+[2023-05-25T16:14:52.877+0200] {processor.py:156} INFO - Started process (PID=9750) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:52.882+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:14:52.883+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:52.882+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:52.971+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:14:52.994+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:52.994+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:14:53.015+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:14:53.015+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:14:53.041+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.171 seconds
+[2023-05-25T16:15:23.259+0200] {processor.py:156} INFO - Started process (PID=9752) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:23.264+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:15:23.266+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:23.265+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:23.364+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:23.386+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:23.386+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:15:23.409+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:23.408+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:15:23.436+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.183 seconds
+[2023-05-25T16:15:53.644+0200] {processor.py:156} INFO - Started process (PID=9754) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:53.645+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:15:53.645+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:53.645+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:53.748+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:15:53.767+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:53.767+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:15:53.789+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:15:53.788+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:15:53.815+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.176 seconds
+[2023-05-25T16:16:24.033+0200] {processor.py:156} INFO - Started process (PID=9756) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:24.037+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:16:24.038+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:24.038+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:24.135+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:24.158+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:24.158+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:16:24.181+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:24.181+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:16:24.218+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.190 seconds
+[2023-05-25T16:16:54.405+0200] {processor.py:156} INFO - Started process (PID=9758) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:54.406+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:16:54.407+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:54.406+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:54.531+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:16:54.554+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:54.554+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:16:54.574+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:16:54.574+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:16:54.597+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.196 seconds
+[2023-05-25T16:17:24.879+0200] {processor.py:156} INFO - Started process (PID=9760) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:24.882+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:17:24.883+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:24.882+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:24.998+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:25.023+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:25.023+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:17:25.044+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:25.043+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:17:25.066+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.192 seconds
+[2023-05-25T16:17:55.340+0200] {processor.py:156} INFO - Started process (PID=9762) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:55.341+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:17:55.342+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:55.342+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:55.453+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:17:55.493+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:55.492+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:17:55.529+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:17:55.529+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:17:55.563+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.228 seconds
+[2023-05-25T16:18:25.799+0200] {processor.py:156} INFO - Started process (PID=9764) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:25.803+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:18:25.804+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:25.803+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:25.906+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:25.940+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:25.940+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:18:25.967+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:25.967+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:18:25.999+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.203 seconds
+[2023-05-25T16:18:56.287+0200] {processor.py:156} INFO - Started process (PID=9766) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:56.291+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:18:56.293+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:56.292+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:56.378+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:18:56.405+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:56.405+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:18:56.430+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:18:56.430+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:18:56.469+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.190 seconds
+[2023-05-25T16:19:26.666+0200] {processor.py:156} INFO - Started process (PID=9768) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:26.670+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:19:26.670+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:26.670+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:26.791+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:26.822+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:26.821+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:19:26.854+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:26.854+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:19:26.888+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.226 seconds
+[2023-05-25T16:19:57.151+0200] {processor.py:156} INFO - Started process (PID=9770) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:57.153+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:19:57.154+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:57.153+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:57.243+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:19:57.266+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:57.266+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:19:57.290+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:19:57.289+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:19:57.313+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.165 seconds
+[2023-05-25T16:20:27.534+0200] {processor.py:156} INFO - Started process (PID=9772) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:27.535+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:20:27.536+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:27.536+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:27.646+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:27.673+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:27.673+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:20:27.697+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:27.697+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:20:27.722+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.193 seconds
+[2023-05-25T16:20:57.882+0200] {processor.py:156} INFO - Started process (PID=9774) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:57.887+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:20:57.888+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:57.887+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:57.988+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:20:58.007+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:58.007+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:20:58.028+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:20:58.028+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:20:58.057+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.180 seconds
+[2023-05-25T16:21:28.236+0200] {processor.py:156} INFO - Started process (PID=9776) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:28.237+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:21:28.238+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:28.238+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:28.327+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:28.372+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:28.371+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:21:28.392+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:28.392+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:21:28.413+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.180 seconds
+[2023-05-25T16:21:58.578+0200] {processor.py:156} INFO - Started process (PID=9778) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:58.582+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:21:58.583+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:58.583+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:58.673+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:21:58.695+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:58.695+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:21:58.713+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:21:58.713+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:21:58.736+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.163 seconds
+[2023-05-25T16:22:28.936+0200] {processor.py:156} INFO - Started process (PID=9780) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:28.938+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:22:28.939+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:28.939+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:29.038+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:29.062+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:29.062+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:22:29.085+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:29.085+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:22:29.108+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.178 seconds
+[2023-05-25T16:22:59.289+0200] {processor.py:156} INFO - Started process (PID=9782) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:59.293+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:22:59.294+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:59.294+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:59.385+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:22:59.409+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:59.409+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:22:59.427+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:22:59.427+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:22:59.450+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.164 seconds
+[2023-05-25T16:23:29.644+0200] {processor.py:156} INFO - Started process (PID=9784) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:23:29.646+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:23:29.648+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:29.647+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:23:29.766+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:23:29.789+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:29.788+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:23:29.807+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:23:29.807+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:23:29.829+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.192 seconds
+[2023-05-25T16:24:00.092+0200] {processor.py:156} INFO - Started process (PID=9786) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:00.095+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:24:00.096+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:00.096+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:00.216+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:00.250+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:00.250+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:24:00.289+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:00.288+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:24:00.316+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.230 seconds
+[2023-05-25T16:24:30.545+0200] {processor.py:156} INFO - Started process (PID=9789) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:30.549+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:24:30.550+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:30.550+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:30.627+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:24:30.654+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:30.654+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:24:30.677+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:24:30.677+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:24:30.702+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.160 seconds
+[2023-05-25T16:25:01.348+0200] {processor.py:156} INFO - Started process (PID=9791) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:01.349+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:25:01.350+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:01.350+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:01.442+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:01.464+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:01.464+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:25:01.495+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:01.495+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:25:01.529+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.185 seconds
+[2023-05-25T16:25:31.742+0200] {processor.py:156} INFO - Started process (PID=9794) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:31.744+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:25:31.745+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:31.745+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:31.846+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:25:31.880+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:31.880+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:25:31.904+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:25:31.904+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:25:31.931+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.192 seconds
+[2023-05-25T16:26:02.058+0200] {processor.py:156} INFO - Started process (PID=9796) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:02.059+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:26:02.059+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:02.059+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:02.165+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:02.194+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:02.194+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:26:02.212+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:02.212+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:26:02.237+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.183 seconds
+[2023-05-25T16:26:32.348+0200] {processor.py:156} INFO - Started process (PID=9798) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:32.352+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:26:32.354+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:32.353+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:32.454+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:26:32.482+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:32.482+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:26:32.501+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:26:32.500+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:26:32.520+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.177 seconds
+[2023-05-25T16:27:02.612+0200] {processor.py:156} INFO - Started process (PID=9800) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:02.614+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:27:02.614+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:02.614+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:02.702+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:02.724+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:02.724+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:27:02.741+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:02.741+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:27:02.765+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.157 seconds
+[2023-05-25T16:27:32.916+0200] {processor.py:156} INFO - Started process (PID=9802) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:32.920+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:27:32.921+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:32.921+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:33.012+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:27:33.032+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:33.031+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:27:33.050+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:27:33.050+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:27:33.083+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.171 seconds
+[2023-05-25T16:28:03.129+0200] {processor.py:156} INFO - Started process (PID=9804) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:03.131+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:28:03.134+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:03.133+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:03.217+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:03.244+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:03.244+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:28:03.283+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:03.282+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:28:03.325+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.199 seconds
+[2023-05-25T16:28:34.043+0200] {processor.py:156} INFO - Started process (PID=9807) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:34.045+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:28:34.045+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:34.045+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:34.118+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:28:34.137+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:34.137+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:28:34.155+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:28:34.155+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:28:34.174+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.134 seconds
+[2023-05-25T16:29:04.358+0200] {processor.py:156} INFO - Started process (PID=9809) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:04.359+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:29:04.360+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:04.360+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:04.427+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:04.443+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:04.443+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:29:04.459+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:04.459+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:29:04.487+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.132 seconds
+[2023-05-25T16:29:34.657+0200] {processor.py:156} INFO - Started process (PID=9811) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:34.666+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:29:34.666+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:34.666+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:34.735+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:29:34.752+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:34.752+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:29:34.766+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:29:34.766+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:29:34.790+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.135 seconds
+[2023-05-25T16:30:04.988+0200] {processor.py:156} INFO - Started process (PID=9813) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:04.989+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:30:04.989+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:04.989+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:05.057+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:05.096+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:05.096+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:30:05.183+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:05.182+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:30:05.230+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.244 seconds
+[2023-05-25T16:30:30.513+0200] {processor.py:156} INFO - Started process (PID=9816) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:30.514+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:30:30.514+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:30.514+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:30.575+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:30:31.160+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:31.160+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:30:31.177+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:30:31.176+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:30:33.899+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 3.388 seconds
+[2023-05-25T16:31:04.333+0200] {processor.py:156} INFO - Started process (PID=9818) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:04.334+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:31:04.335+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:04.335+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:04.400+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:04.415+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:04.414+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:31:04.427+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:04.427+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:31:04.453+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.122 seconds
+[2023-05-25T16:31:34.876+0200] {processor.py:156} INFO - Started process (PID=9820) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:34.877+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:31:34.877+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:34.877+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:34.955+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:31:34.971+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:34.971+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:31:34.987+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:31:34.987+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:31:35.010+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.138 seconds
+[2023-05-25T16:32:05.369+0200] {processor.py:156} INFO - Started process (PID=9824) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:05.372+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:32:05.372+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:05.372+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:05.462+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:05.480+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:05.480+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:32:05.495+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:05.495+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:32:05.517+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.151 seconds
+[2023-05-25T16:32:35.839+0200] {processor.py:156} INFO - Started process (PID=9826) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:35.840+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:32:35.840+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:35.840+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:35.901+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:32:35.917+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:35.916+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:32:35.932+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:32:35.932+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:32:35.951+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.115 seconds
+[2023-05-25T16:33:06.325+0200] {processor.py:156} INFO - Started process (PID=9828) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:06.326+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:33:06.327+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:06.326+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:06.398+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:06.412+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:06.412+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:33:06.426+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:06.426+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:33:06.446+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.124 seconds
+[2023-05-25T16:33:36.818+0200] {processor.py:156} INFO - Started process (PID=9831) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:36.818+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:33:36.819+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:36.819+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:36.876+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:33:36.889+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:36.889+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:33:36.901+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:33:36.900+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:33:36.920+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.104 seconds
+[2023-05-25T16:34:07.292+0200] {processor.py:156} INFO - Started process (PID=9834) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:07.294+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:34:07.295+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:07.295+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:07.356+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:07.368+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:07.368+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:34:07.380+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:07.379+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:34:07.403+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.113 seconds
+[2023-05-25T16:34:37.647+0200] {processor.py:156} INFO - Started process (PID=9836) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:37.651+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:34:37.652+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:37.652+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:37.730+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:34:37.746+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:37.746+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:34:37.761+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:34:37.761+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:34:37.780+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.135 seconds
+[2023-05-25T16:35:07.963+0200] {processor.py:156} INFO - Started process (PID=9838) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:07.964+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:35:07.965+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:07.965+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:08.031+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:08.045+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:08.045+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:35:08.058+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:08.058+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:35:08.078+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.118 seconds
+[2023-05-25T16:35:38.277+0200] {processor.py:156} INFO - Started process (PID=9840) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:38.279+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:35:38.279+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:38.279+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:38.340+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:35:38.354+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:38.354+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:35:38.366+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:35:38.366+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:35:38.386+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.110 seconds
+[2023-05-25T16:36:08.598+0200] {processor.py:156} INFO - Started process (PID=9842) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:08.599+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:36:08.600+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:08.600+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:08.660+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:08.673+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:08.673+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:36:08.687+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:08.687+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:36:08.717+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.121 seconds
+[2023-05-25T16:36:38.915+0200] {processor.py:156} INFO - Started process (PID=9844) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:38.919+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:36:38.919+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:38.919+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:38.983+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:36:38.998+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:38.998+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:36:39.010+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:36:39.010+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:36:39.028+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.117 seconds
+[2023-05-25T16:37:09.251+0200] {processor.py:156} INFO - Started process (PID=9846) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:09.252+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:37:09.253+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:09.253+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:09.312+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:09.325+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:09.325+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:37:09.338+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:09.338+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:37:09.361+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.113 seconds
+[2023-05-25T16:37:39.562+0200] {processor.py:156} INFO - Started process (PID=9848) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:39.562+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:37:39.563+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:39.563+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:39.626+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:37:39.640+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:39.640+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:37:39.653+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:37:39.652+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:37:39.677+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.118 seconds
+[2023-05-25T16:38:09.875+0200] {processor.py:156} INFO - Started process (PID=9850) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:09.879+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:38:09.879+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:09.879+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:09.947+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:09.965+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:09.965+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:38:09.981+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:09.981+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:38:10.005+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.133 seconds
+[2023-05-25T16:38:40.188+0200] {processor.py:156} INFO - Started process (PID=9852) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:40.192+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:38:40.192+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:40.192+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:40.272+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:38:40.290+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:40.289+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:38:40.307+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:38:40.307+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:38:40.329+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.143 seconds
+[2023-05-25T16:39:10.505+0200] {processor.py:156} INFO - Started process (PID=9854) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:10.508+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:39:10.509+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:10.508+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:10.580+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:10.593+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:10.593+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:39:10.604+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:10.604+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:39:10.627+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.125 seconds
+[2023-05-25T16:39:40.829+0200] {processor.py:156} INFO - Started process (PID=9856) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:40.831+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:39:40.832+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:40.832+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:40.906+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:39:40.924+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:40.924+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:39:40.941+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:39:40.941+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:39:40.985+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.158 seconds
+[2023-05-25T16:40:11.154+0200] {processor.py:156} INFO - Started process (PID=9858) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:11.156+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:40:11.165+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:11.158+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:11.344+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:11.364+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:11.364+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:40:11.387+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:11.387+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:40:11.416+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.265 seconds
+[2023-05-25T16:40:41.591+0200] {processor.py:156} INFO - Started process (PID=9889) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:41.617+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:40:41.620+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:41.619+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:41.746+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:40:41.771+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:41.771+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:40:41.789+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:40:41.788+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:40:42.005+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.429 seconds
+[2023-05-25T16:41:12.202+0200] {processor.py:156} INFO - Started process (PID=9891) to work on /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:41:12.203+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/testdag.py for tasks to queue
+[2023-05-25T16:41:12.204+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:12.204+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:41:12.291+0200] {processor.py:768} INFO - DAG(s) dict_keys(['testdag_elas']) retrieved from /home/julien/airflow/dags/testdag.py
+[2023-05-25T16:41:12.308+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:12.308+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-25T16:41:12.329+0200] {logging_mixin.py:117} INFO - [2023-05-25T16:41:12.329+0200] {dag.py:3324} INFO - Setting next_dagrun for testdag_elas to 2023-06-01T00:00:00+00:00, run_after=2023-07-01T00:00:00+00:00
+[2023-05-25T16:41:12.364+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/testdag.py took 0.165 seconds

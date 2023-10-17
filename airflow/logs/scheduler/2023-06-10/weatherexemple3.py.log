@@ -1,0 +1,266 @@
+[2023-06-10T21:02:15.087+0200] {processor.py:156} INFO - Started process (PID=30933) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:15.095+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:02:15.096+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:15.096+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:18.993+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:24.692+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:24.691+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:02:24.819+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:24.812+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:02:24.969+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 9.889 seconds
+[2023-06-10T21:02:55.973+0200] {processor.py:156} INFO - Started process (PID=30972) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:55.974+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:02:55.975+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:55.975+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:56.150+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:02:56.173+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:56.173+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:02:56.191+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:02:56.190+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:02:56.212+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.241 seconds
+[2023-06-10T21:03:26.332+0200] {processor.py:156} INFO - Started process (PID=30977) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:26.339+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:03:26.340+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:26.340+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:26.483+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:26.502+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:26.502+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:03:26.517+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:26.517+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:03:26.547+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.218 seconds
+[2023-06-10T21:03:56.706+0200] {processor.py:156} INFO - Started process (PID=30984) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:56.708+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:03:56.709+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:56.709+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:56.842+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:03:56.860+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:56.859+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:03:56.879+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:03:56.879+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:03:56.901+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.200 seconds
+[2023-06-10T21:04:27.074+0200] {processor.py:156} INFO - Started process (PID=30989) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:27.076+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:04:27.077+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:27.077+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:27.257+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:27.283+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:27.282+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:04:27.305+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:27.304+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:04:27.329+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.261 seconds
+[2023-06-10T21:04:57.465+0200] {processor.py:156} INFO - Started process (PID=30994) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:57.467+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:04:57.467+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:57.467+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:57.586+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:04:57.601+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:57.601+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:04:57.615+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:04:57.614+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:04:57.635+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.176 seconds
+[2023-06-10T21:05:27.736+0200] {processor.py:156} INFO - Started process (PID=30999) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:27.737+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:05:27.738+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:27.737+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:27.863+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:27.880+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:27.880+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:05:27.896+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:27.896+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:05:27.921+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.189 seconds
+[2023-06-10T21:05:58.020+0200] {processor.py:156} INFO - Started process (PID=31004) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:58.024+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:05:58.025+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:58.025+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:58.163+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:05:58.182+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:58.182+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:05:58.196+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:05:58.196+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:05:58.216+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.200 seconds
+[2023-06-10T21:06:28.407+0200] {processor.py:156} INFO - Started process (PID=31009) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:28.408+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:06:28.409+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:28.409+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:28.542+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:28.558+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:28.558+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:06:28.572+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:28.572+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:06:28.595+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.195 seconds
+[2023-06-10T21:06:58.782+0200] {processor.py:156} INFO - Started process (PID=31014) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:58.785+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:06:58.786+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:58.786+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:59.126+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:06:59.156+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:59.155+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:06:59.173+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:06:59.173+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:06:59.196+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.417 seconds
+[2023-06-10T21:07:29.383+0200] {processor.py:156} INFO - Started process (PID=31019) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:29.384+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:07:29.385+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:29.385+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:29.515+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:29.532+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:29.532+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:07:29.544+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:29.544+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:07:29.568+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.190 seconds
+[2023-06-10T21:07:59.658+0200] {processor.py:156} INFO - Started process (PID=31024) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:59.662+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:07:59.663+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:59.663+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:59.797+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:07:59.814+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:59.814+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:07:59.827+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:07:59.827+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:07:59.854+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.201 seconds
+[2023-06-10T21:08:30.040+0200] {processor.py:156} INFO - Started process (PID=31029) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:08:30.044+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:08:30.045+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:30.045+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:08:30.188+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:08:30.206+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:30.206+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:08:30.224+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:08:30.224+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:08:30.251+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.216 seconds
+[2023-06-10T21:09:00.418+0200] {processor.py:156} INFO - Started process (PID=31034) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:00.422+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:09:00.422+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:00.422+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:00.564+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:00.582+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:00.582+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:09:00.603+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:00.602+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:09:00.625+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.210 seconds
+[2023-06-10T21:09:30.813+0200] {processor.py:156} INFO - Started process (PID=31039) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:30.817+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:09:30.817+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:30.817+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:30.950+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:09:30.969+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:30.968+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:09:30.984+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:09:30.983+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:09:31.010+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.199 seconds
+[2023-06-10T21:10:01.201+0200] {processor.py:156} INFO - Started process (PID=31044) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:01.202+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:10:01.202+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:01.202+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:01.401+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:01.429+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:01.428+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:10:01.450+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:01.450+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:10:01.475+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.277 seconds
+[2023-06-10T21:10:31.572+0200] {processor.py:156} INFO - Started process (PID=31049) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:31.575+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:10:31.576+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:31.576+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:31.766+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:10:31.790+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:31.790+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:10:31.817+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:10:31.816+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:10:31.845+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.278 seconds
+[2023-06-10T21:11:01.936+0200] {processor.py:156} INFO - Started process (PID=31054) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:01.937+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:11:01.938+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:01.938+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:02.161+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:02.195+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:02.195+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:11:02.220+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:02.220+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:11:02.254+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.320 seconds
+[2023-06-10T21:11:32.404+0200] {processor.py:156} INFO - Started process (PID=31059) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:32.408+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:11:32.409+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:32.408+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:32.563+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:11:32.595+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:32.595+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:11:32.614+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:11:32.614+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:11:32.635+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.234 seconds
+[2023-06-10T21:12:02.789+0200] {processor.py:156} INFO - Started process (PID=31064) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:02.791+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:12:02.792+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:02.792+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:02.984+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:03.004+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:03.004+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:12:03.021+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:03.020+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:12:03.046+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.262 seconds
+[2023-06-10T21:12:33.172+0200] {processor.py:156} INFO - Started process (PID=31070) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:33.174+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:12:33.175+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:33.174+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:33.407+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:12:33.435+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:33.435+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:12:33.459+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:12:33.459+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:12:33.491+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.324 seconds
+[2023-06-10T21:13:03.659+0200] {processor.py:156} INFO - Started process (PID=31077) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:03.662+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:13:03.663+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:03.662+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:03.944+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:03.971+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:03.971+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:13:04.021+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:04.021+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:13:04.077+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.424 seconds
+[2023-06-10T21:13:34.236+0200] {processor.py:156} INFO - Started process (PID=31082) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:34.240+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:13:34.240+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:34.240+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:34.371+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:13:34.387+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:34.387+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:13:34.402+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:13:34.402+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:13:34.425+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.191 seconds
+[2023-06-10T21:14:04.508+0200] {processor.py:156} INFO - Started process (PID=31087) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:04.509+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:14:04.510+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:04.509+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:04.636+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:04.653+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:04.653+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:14:04.677+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:04.677+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:14:04.703+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.197 seconds
+[2023-06-10T21:14:34.733+0200] {processor.py:156} INFO - Started process (PID=31092) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:34.736+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:14:34.736+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:34.736+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:34.871+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:14:34.887+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:34.887+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:14:34.901+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:14:34.901+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:14:34.925+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.195 seconds
+[2023-06-10T21:15:05.120+0200] {processor.py:156} INFO - Started process (PID=31097) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:05.125+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:15:05.126+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:05.126+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:05.275+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:05.293+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:05.293+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:15:05.307+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:05.307+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:15:05.326+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.210 seconds
+[2023-06-10T21:15:35.504+0200] {processor.py:156} INFO - Started process (PID=31102) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:35.505+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:15:35.505+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:35.505+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:35.630+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:15:35.647+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:35.647+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:15:35.664+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:15:35.664+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:15:35.690+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.191 seconds
+[2023-06-10T21:16:05.779+0200] {processor.py:156} INFO - Started process (PID=31107) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:05.783+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:16:05.783+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:05.783+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:05.917+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:05.934+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:05.934+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:16:05.947+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:05.947+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:16:05.971+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.196 seconds
+[2023-06-10T21:16:36.148+0200] {processor.py:156} INFO - Started process (PID=31112) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:36.152+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:16:36.153+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:36.153+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:36.278+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:16:36.298+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:36.298+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:16:36.312+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:16:36.312+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:16:36.335+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.192 seconds
+[2023-06-10T21:17:06.420+0200] {processor.py:156} INFO - Started process (PID=31117) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:06.421+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:17:06.422+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:06.422+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:06.545+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:06.567+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:06.567+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:17:06.581+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:06.581+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:17:06.603+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.188 seconds
+[2023-06-10T21:17:36.690+0200] {processor.py:156} INFO - Started process (PID=31122) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:36.694+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:17:36.695+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:36.695+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:36.851+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:17:36.873+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:36.873+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:17:36.887+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:17:36.887+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:17:36.910+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.224 seconds
+[2023-06-10T21:18:07.086+0200] {processor.py:156} INFO - Started process (PID=31127) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:07.086+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:18:07.087+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:07.087+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:07.221+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:07.237+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:07.237+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:18:07.251+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:07.251+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:18:07.276+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.195 seconds
+[2023-06-10T21:18:37.461+0200] {processor.py:156} INFO - Started process (PID=31132) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:37.465+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:18:37.466+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:37.466+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:37.590+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:18:37.607+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:37.607+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:18:37.625+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:18:37.625+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:18:37.652+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.194 seconds
+[2023-06-10T21:19:07.740+0200] {processor.py:156} INFO - Started process (PID=31137) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:07.742+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:19:07.742+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:07.742+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:07.906+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:07.930+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:07.930+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:19:07.952+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:07.952+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:19:07.979+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.242 seconds
+[2023-06-10T21:19:38.137+0200] {processor.py:156} INFO - Started process (PID=31142) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:38.140+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:19:38.141+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:38.141+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:38.293+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:19:38.317+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:38.317+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:19:38.340+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:19:38.340+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:19:38.362+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.230 seconds
+[2023-06-10T21:20:08.510+0200] {processor.py:156} INFO - Started process (PID=31148) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:20:08.511+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:20:08.511+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:20:08.511+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:20:08.659+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:20:08.682+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:20:08.682+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:20:08.701+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:20:08.701+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:20:08.723+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.216 seconds
+[2023-06-10T21:51:15.736+0200] {processor.py:156} INFO - Started process (PID=31238) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:15.739+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:51:15.740+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:15.739+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:15.970+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:15.978+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:15.978+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:51:15.991+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:15.991+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:51:16.013+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.281 seconds
+[2023-06-10T21:51:46.159+0200] {processor.py:156} INFO - Started process (PID=31446) to work on /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:46.166+0200] {processor.py:758} INFO - Processing file /home/julien/airflow/dags/weatherexemple3.py for tasks to queue
+[2023-06-10T21:51:46.168+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:46.168+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:46.830+0200] {processor.py:768} INFO - DAG(s) dict_keys(['weatherdag5']) retrieved from /home/julien/airflow/dags/weatherexemple3.py
+[2023-06-10T21:51:46.875+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:46.875+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-10T21:51:46.928+0200] {logging_mixin.py:117} INFO - [2023-06-10T21:51:46.928+0200] {dag.py:3324} INFO - Setting next_dagrun for weatherdag5 to 2023-06-04T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-10T21:51:47.003+0200] {processor.py:178} INFO - Processing /home/julien/airflow/dags/weatherexemple3.py took 0.848 seconds
